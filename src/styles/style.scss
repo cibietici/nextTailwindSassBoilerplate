@@ -1,0 +1,17 @@
+$small-font-size: 0.8rem;
+$normal-font-size: 1rem;
+$medium-font-size: 2rem;
+$big-font-size: 3rem;
+
+.small--font {
+  font-size: $small-font-size;
+}
+
+.medium--font {
+  font-size: $medium-font-size;
+}
+
+$small-font-size: 1rem;
+.big--font {
+  font-size: $big-font-size;
+}
